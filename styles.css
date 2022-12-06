@@ -198,9 +198,3 @@ footer{
     }
     
 }
-@media(max-height:700px){
-    .home_desc{
-        height:100vh;
-        max-height:100px;
-    }
-}
